@@ -1,2 +1,2 @@
 # python-practices
-Python practices from IBM DS course
+Practicing Python Basic from... any kind of source.
